@@ -1,0 +1,11 @@
+[time                  8-1-2018 0:05
+Cyclone_cone_draft          -459.31
+Name: 164773, dtype: object, time                  9-15-2018 8:35
+Cyclone_cone_draft            488.86
+Name: 177835, dtype: object, time                  9-15-2018 8:45
+Cyclone_cone_draft            137.39
+Name: 177837, dtype: object, time                   8-1-2018 0:05
+Cyclone_Inlet_Draft          -396.37
+Name: 164772, dtype: object, time                   8-23-2018 2:15
+Cyclone_Inlet_Draft           -391.08
+Name: 171134, dtype: object]
